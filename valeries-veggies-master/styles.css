@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body {
+  background-color: #d3e3d3;
+  font-family: 'Roboto', sans-serif;
+}
+p {
+  color: 	#000000;
+}
+
+h1, h2 {
+  color: #006400;
+}
+
+ul {background-color: #FFFFFF;
+}
+.list-item {
+  color: green;
+}
+#veggie-image {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#main-title {
+  text-align: center;
+}
